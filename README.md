@@ -12,6 +12,6 @@
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=github2k20&show_icons=true,theme=chartreuse-dark)
 <br>
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg)
 
 
