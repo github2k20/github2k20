@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"> Hey! 👋</h3>
 
 - 🔭 I’m currently working on the frontend Development of an Automed Market Maker(Dex Protocol) Platform.
      AMM is a special kind of market maker model which is completely different from traditional order book exchange like Binance and works on mathematical formulas,      eg: x*y=k for Uniswap.
@@ -8,10 +8,16 @@
 - 📫 How to reach me: priyanshiiit@gmail.com
 - ⚡  Rated 1900+ at Codechef
 
-
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=github2k20&show_icons=true,theme=chartreuse-dark)
-<br>
+<div align="center">
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg)
+![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=github2k20&show_icons=true,theme=chartreuse-dark)
+     
+</div>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=github2k20"/>       
+</p>
+     
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg) -->
 
 
