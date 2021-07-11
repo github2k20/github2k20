@@ -10,12 +10,12 @@
 
 <div align="center">
      
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=github2k20&show_icons=true,theme=chartreuse-dark)
+![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshiiit&show_icons=true,theme=chartreuse-dark)
      
 </div>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=github2k20"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshiiit"/>       
 </p>
      
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg) -->
