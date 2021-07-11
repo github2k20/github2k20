@@ -14,9 +14,9 @@
      
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshiiit"/>       
-</p>
+</p> -->
      
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg) -->
 
