@@ -9,14 +9,13 @@
 
 <div align="center">
      
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshiiit&show_icons=true,theme=chartreuse-dark)
-     
+<!-- ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshiiit&show_icons=true,theme=chartreuse-dark) -->
+ <img align="center" alt="GIF" src="https://github.com/priyanshiiit/priyanshiiit/blob/main/code.gif?raw=true" width="500" height="320" />
 </div>
 
 <!-- <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshiiit"/>       
 </p> -->
      
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5F4170&center=true&vCenter=true&lines=Thanks+for+Visiting!)](https://git.io/typing-svg) -->
 
 
