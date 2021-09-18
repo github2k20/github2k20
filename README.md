@@ -1,6 +1,6 @@
 <h3 align="center"> Hey! 👋</h3>
 
-- 🔭 Currently contributing to Bitcoin Opensource Project - [mempool.space](https://github.com/mempool/mempool) [(Artifacts)](https://priyanshiiit.notion.site/Summer-of-Bitcoin-Artifacts-bf68da8990c74171a85aa2197690cd21)
+- 🔭 Currently contributing to Bitcoin Opensource Project - [mempool.space](https://github.com/mempool/mempool) [(Artifacts/PRs)](https://priyanshiiit.notion.site/Summer-of-Bitcoin-Artifacts-bf68da8990c74171a85aa2197690cd21)
 - 🌱 Exploring Bitcoin, Lightning Network, Angular, Reactjs, Docker, Web3js, Solidity and Crypto in general.
 - 💬 Ask me about Freelancing, DSA, Blockchain and other tech stuff
 - 🤔 I’m looking for help to find new mind-bending web series
