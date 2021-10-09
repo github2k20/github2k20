@@ -2,7 +2,7 @@
 
 - 🔭 Currently contributing to Bitcoin Opensource Project - [mempool.space](https://github.com/mempool/mempool) & [LND](https://github.com/lightningnetwork/lnd) 👉🏻 [(Artifacts/PRs)](https://rebrand.ly/e52tobu)
 - 🌱 Exploring Bitcoin, Lightning Network, Golang, Reactjs, Docker, Web3js, Solidity and Crypto in general.
-- 💬 Ask me about Freelancing, DSA, Blockchain and other tech stuff, happy to help!
+- 💬 Ask me about Freelancing, DSA, Blockchain and other tech stuff, always happy to help!
 - 📫 How to reach me: priyanshiiit@gmail.com
 - ⚡  Rated 1900+ at Codechef
 
