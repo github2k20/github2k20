@@ -3,7 +3,7 @@
 - ✨ Currently working at Blockchain Security Pioneer - [Certik](https://twitter.com/certik_io) as an SWE Intern
 - 🔭 Bitcoin Opensource Contributions - [mempool.space](https://github.com/mempool/mempool) & [LND](https://github.com/lightningnetwork/lnd) 👉🏻 [(Artifacts/PRs)](https://rebrand.ly/e52tobu)
 - 🌱 Exploring Bitcoin, Lightning Network, Golang, Reactjs, Docker, Web3js, Solidity and Crypto in general.
-- 💬 Ask me about Freelancing, DSA, Blockchain and other tech stuff, always happy to help!
+- 💬 Ask me about Freelancing, Blockchain, DSA and other tech stuff, always happy to help!
 - 📫 How to reach me: [Twitter](https://twitter.com/priyansh_tweet) or priyanshiiit@gmail.com
 - ⚡  Rated 1900+ at Codechef
 
