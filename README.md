@@ -1,6 +1,6 @@
 <h3 align="center"> Hey! 👋</h3>
 
-- ✨ Currently working at Blockchain Security Pioneer - [Certik](https://twitter.com/certik_io) as an SWE Intern
+- ✨ Currently working at Blockchain Security Pioneer - [CertiK](https://twitter.com/certik_io) as an SWE Intern
 - 🔭 Bitcoin Opensource Contributions - [mempool.space](https://github.com/mempool/mempool) & [LND](https://github.com/lightningnetwork/lnd) 👉🏻 [(Artifacts/PRs)](https://rebrand.ly/e52tobu)
 - 🌱 Exploring Bitcoin, Lightning Network, Golang, Reactjs, Docker, Web3js, Solidity and Crypto in general.
 - 💬 Ask me about Freelancing, Blockchain, DSA and other tech stuff, always happy to help!
