@@ -1,4 +1,4 @@
-<h3 align="center"> Hey! 👋</h3>
+<h3 align="center"> Hey there, this side Priyansh! 👋</h3>
 
 - ✨ Currently working at Blockchain Security Pioneer - [CertiK](https://twitter.com/certik_io) as an SWE Intern
 - 🔭 Bitcoin Opensource Contributions - [mempool.space](https://github.com/mempool/mempool) & [LND](https://github.com/lightningnetwork/lnd) 👉🏻 [(Artifacts/PRs)](https://rebrand.ly/e52tobu)
