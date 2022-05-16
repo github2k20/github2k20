@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there, this side Priyansh! 👋</h3>
+<h3 align="center"> Hey there, Priyansh this side! 👋</h3>
 
 - ⚡  Currently contributing to Lightning Network Daemon([LND](https://github.com/lightningnetwork/lnd)) by [Lightning Labs](https://twitter.com/lightning) 🍠
      - WIP PR: https://github.com/lightningnetwork/lnd/pull/6321
