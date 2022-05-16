@@ -12,7 +12,7 @@
      - Merged: https://github.com/mempool/mempool/pull/751
      - Merged: https://github.com/mempool/mempool/pull/695
      - Merged: https://github.com/mempool/mempool/pull/715
-     - ...find others [here](https://rebrand.ly/e52tobu)
+     - ...many more [here](https://rebrand.ly/e52tobu)
      
 - 📝 Bitcoin & Lightning Blogs:
      - [Running Bitcoin Core, Signet and playing with test bitcoins using Bitcoin-CLI 🌠](https://priyanshiiit.hashnode.dev/running-bitcoin-core)
