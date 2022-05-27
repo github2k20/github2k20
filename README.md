@@ -2,6 +2,7 @@
 
 - ⚡  Currently contributing to Lightning Network Daemon([LND](https://github.com/lightningnetwork/lnd)) by [Lightning Labs](https://twitter.com/lightning) 🍠
      - WIP PR: https://github.com/lightningnetwork/lnd/pull/6321
+     - WIP Issue: https://github.com/lightningnetwork/lnd/issues/5540
      - Merged: https://github.com/lightningnetwork/lnd/pull/5768
 - 🔭 Bitcoin Opensource Contributions - [mempool.space](https://github.com/mempool/mempool):
      - Merged: https://github.com/mempool/mempool/pull/628
