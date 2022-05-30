@@ -4,7 +4,9 @@
      - WIP PRs: 
         - https://github.com/lightningnetwork/lnd/pull/6321
         - https://github.com/lightningnetwork/lnd/pull/6592
-     - WIP Issue: https://github.com/lightningnetwork/lnd/issues/5540
+     - WIP Issue: 
+        - https://github.com/lightningnetwork/lnd/issues/5540
+        - https://github.com/lightningnetwork/lnd/issues/4893
      - Merged: https://github.com/lightningnetwork/lnd/pull/5768
 - 🔭 Bitcoin Opensource Contributions - [mempool.space](https://github.com/mempool/mempool):
      - Merged: https://github.com/mempool/mempool/pull/628
