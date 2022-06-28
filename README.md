@@ -1,14 +1,14 @@
 <h3 align="center"> Hey there, Priyansh this side! 👋</h3>
 
 - ⚡  Currently contributing to **Lightning Network Daemon**([LND](https://github.com/lightningnetwork/lnd)) by [Lightning Labs](https://twitter.com/lightning) 🍠
-     - **WIP PRs**: 
-        - https://github.com/lightningnetwork/lnd/pull/6592
-        - https://github.com/lightningnetwork/lnd/pull/6596
-        
      - **Merged**: 
         - https://github.com/lightningnetwork/lnd/pull/6321
+        - https://github.com/lightningnetwork/lnd/pull/6592
         - https://github.com/lightningnetwork/lnd/pull/6641
         - https://github.com/lightningnetwork/lnd/pull/5768
+        
+     - **WIP PRs**: 
+        - https://github.com/lightningnetwork/lnd/pull/6596
 - 🔭 **Bitcoin Opensource Contributions** - [mempool.space](https://github.com/mempool/mempool):
      - Merged: https://github.com/mempool/mempool/pull/628
      - Merged: https://github.com/mempool/mempool/pull/682
