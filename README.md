@@ -9,6 +9,7 @@
         
      - **WIP PRs**: 
         - https://github.com/lightningnetwork/lnd/pull/6596
+        - https://github.com/lightningnetwork/lnd/pull/6733
 - 🔭 **Bitcoin Opensource Contributions** - [mempool.space](https://github.com/mempool/mempool):
      - Merged: https://github.com/mempool/mempool/pull/628
      - Merged: https://github.com/mempool/mempool/pull/682
