@@ -22,6 +22,9 @@
      - ...many more [here](https://rebrand.ly/e52tobu)
      
 - 📝 **Bitcoin & Lightning Blogs**:
+     - [Watchtowers - Protect yourself from breach 🙀✨](https://priyanshiiit.hashnode.dev/watchtowers)
+     - [Customizing Go Binaries with Build Tags 🛠](https://priyanshiiit.hashnode.dev/build-tags)
+     - [A Comprehensive Guide To Bitcoin Address Types 🚨](https://priyanshiiit.hashnode.dev/bitcoin-address-types)
      - [Running Bitcoin Core, Signet and playing with test bitcoins using Bitcoin-CLI 🌠](https://priyanshiiit.hashnode.dev/running-bitcoin-core)
      - [Setting up and interacting with Lightning Network Daemon(LND) ⚡️ Part 1](https://priyanshiiit.hashnode.dev/lightning-network-daemon-p1)
      - [Setting up and interacting with Lightning Network Daemon(LND) ⚡️ Part 2](https://priyanshiiit.hashnode.dev/lightning-network-daemon-p2)
