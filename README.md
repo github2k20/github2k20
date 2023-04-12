@@ -1,6 +1,6 @@
 <h3 align="center"> Hey there, Priyansh this side! 👋</h3>
 
-- ⚡  Currently contributing to **Lightning Network Daemon**([LND](https://github.com/lightningnetwork/lnd)) by [Lightning Labs](https://twitter.com/lightning) 🍠
+- ⚡  Currently contributing to **Bitcoin Scaling solution** - **Lightning Network Daemon**([LND](https://github.com/lightningnetwork/lnd)) by [Lightning Labs](https://twitter.com/lightning) 🍠
      - **Merged**: 
         - https://github.com/lightningnetwork/lnd/pull/6321
         - https://github.com/lightningnetwork/lnd/pull/6596
