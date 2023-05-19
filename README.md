@@ -30,7 +30,7 @@
      - [Setting up and interacting with Lightning Network Daemon(LND) ⚡️ Part 2](https://priyanshiiit.hashnode.dev/lightning-network-daemon-p2)
      - [Mempool.Space 🚀](https://priyanshiiit.hashnode.dev/mempoolspace)
 - 🎥 My talk about **Opportunities in Blockchain for Students** hosted by **Github Education**: [click here](https://twitter.com/priyansh_tweet/status/1529864671259684864)  
-- 👨‍💻 Previously worked at [CertiK](https://twitter.com/CertiK) - **Blockchain Security Pioneer**, as an **SWE Intern**.
+- 👨‍💻 Previously worked at [CertiK](https://twitter.com/CertiK) - **Unicorn Blockchain Startup**, as an **SWE Intern**.
 - 🌱 Exploring Bitcoin, Lightning Network, Golang, Reactjs, Docker, Web3js, Solidity and Crypto in general.
 - 💬 Ask me about Freelancing, Blockchain, DSA and other tech stuff, always happy to help!
 - 📫 How to reach me: [Twitter](https://twitter.com/priyansh_tweet) or priyanshiiit@gmail.com
